@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Busca Silenciosa**
 
-- 🌱 I’m currently learning **Python/JavaScript/HTML/CSS**
+- 🌱 I’m learning **Python/JavaScript/HTML/CSS**
+
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:3000/index.html](http://127.0.0.1:3000/index.html)
 
 - 📫 How to reach me **edudearaujomariz@gmail.com**
 
